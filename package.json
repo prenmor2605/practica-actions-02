@@ -1,0 +1,21 @@
+{
+  "name": "practica-actions-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"console.log('Tests OK'); process.exit(0)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prenmor2605/practica-actions-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prenmor2605/practica-actions-02/issues"
+  },
+  "homepage": "https://github.com/prenmor2605/practica-actions-02#readme"
+}
